@@ -1,4 +1,4 @@
-For implementing Dicitionary search I used hasp map data structure for faster reterival and counting the repeated search.
+For implementing Dicitionary search feature I used hasp map data structure for faster reterival and counting the repeated search.
 
 How to run this assignment :-
 
