@@ -1,0 +1,16 @@
+For implementing Dicitionary search I used hasp map data structure for faster reterival and counting the repeated search.
+
+How to run this assignment :-
+
+step 1 :- user have to select select the number according their choice(but recommend approach Firstly user have to add some word into dictionary for performing operation smootly).
+
+step 2 :- if user pick 1 option  then user have to provide the word they want to search. If the word is already exists then frequency of the word increases and it show found on the screen. If word is not exists then it show not found.
+
+step 3 :- if user pick 2 option  then user have to provide prefix word and number for the value of suggestion user want, if prefix word match with prefix of the word that is already present in the map then it will push into result array this process will repeat until iterator exceed map size and result array size equal to number which is the value of suggestion user want.
+
+step 3:- if user pick the option 3 then user have to provide word that they want to add in a dictionary. If word is already present in a dictionary then it will print already exist. If word is not present in a dictionary then word is insert into dictionary and it frequency set to 1.
+
+step 4:- if user pick 4 then it will exit form word searching feature.
+
+
+		
